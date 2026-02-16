@@ -1,0 +1,15 @@
+{
+  "name": "webmonitor",
+  "version": "1.0.0",
+  "description": "app for web monitoring",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "check": "node check-chat.js"
+  },
+  "dependencies": {
+    "playwright": "^1.58.2"
+  }
+}
